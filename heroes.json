@@ -1,0 +1,20 @@
+[
+	{
+		"nameFromJson": "Hero1",
+		"image": "Hero1.jpg",
+		"attack": 100,
+		"mana": 6
+	},
+	{
+		"nameFromJson": "Hero2",
+		"image": "Hero2.jpg",
+		"attack": 150,
+		"mana": 12
+	},
+	{
+		"nameFromJson": "Hero3",
+		"image": "Hero3.jpg",
+		"attack": 200,
+		"mana": 7
+	}
+]
